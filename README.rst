@@ -34,7 +34,8 @@ Data_Visualization
 ==================
 
 
-    Add a short description here!
+    
+The Hawaii Natural Energy Institute's study on 14 NMC-LCO 18650 batteries, cycled over 1000 times, aims to predict Remaining Useful Life (RUL) using voltage and current measurements instead of the typical capacity metric, with datasets selected from the HNEI source available at the Battery Archive.
 
 
 A longer description of your project goes here...
